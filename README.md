@@ -115,5 +115,118 @@ Applicable Controls:
 
 ✅ A.8.16: Monitoring activities.
 
+------------------------------------------------------------------------------
 
+# 4. Phase 3: Control Implementation (Months 5-7)
+This phase involved the implementation of the controls selected in the Risk Treatment Plan and documented in the Statement of Applicability (SoA).
 
+# Statement of Applicability (SoA)
+The SoA was a central document listing all 93 controls from Annex A, with a justification for whether each control was implemented and a reference to the relevant policy or procedure.
+
+# Key Control Implementation Initiatives:
+
+A.5 - Organizational Controls:
+
+✅ Developed a suite of ISMS policies, including an overarching Information Security Policy.
+
+✅ Implemented a formal access control policy (A.5.15) and procedure.
+
+✅ Established a supplier security management process (A.5.19) to vet third-party vendors.
+
+A.6 - People Controls:
+
+✅ Launched a mandatory information security awareness training program (A.6.3) for all employees, with phishing simulations.
+
+✅ Implemented stricter screening processes (A.6.1) for new hires in sensitive roles.
+
+A.7 - Physical Controls:
+
+✅ Upgraded physical security at the head office, including improved CCTV coverage and visitor access logs (A.7.2).
+
+✅Developed a clear screen and clear desk policy (A.7.7).
+
+A.8 - Technological Controls:
+
+✅ Deployed a new Endpoint Detection and Response (EDR) solution (A.8.16).
+
+✅ Enforced multi-factor authentication (MFA) (A.8.5) across all critical systems.
+
+✅ Implemented a comprehensive vulnerability management program (A.8.8), including regular scanning and patching.
+
+✅ Established a robust backup and recovery strategy (A.8.13) with regular testing.
+
+--------------------------------------------------------------------------
+
+# 5. Phase 4: Monitoring, Review, and Audit (Month 8)
+With controls in place, the focus shifted to monitoring their effectiveness and preparing for certification.
+
+# Step 1: Performance Monitoring
+Key performance indicators (KPIs) were established to monitor the effectiveness of the ISMS.
+
+# ISMS Performance Monitoring KPIs
+
+| KPI                               | Target          | Result                     |
+|-----------------------------------|-----------------|----------------------------|
+| Phishing Simulation Click-Rate    | < 5%            | 3.5%                       |
+| Critical Vulnerabilities Patched  | Within 14 days  | 98% patched in 12 days     |
+| MFA Coverage on Critical Systems  | 100%            | 100%                       |
+| Security Incidents (Severity 1)   | < 2 per quarter | 0 in the last quarter      |
+
+-----------------------------------------------------------------------------
+
+#  Step 2: Internal Audit
+An internal audit was conducted by a third-party consultant to provide an independent assessment of the ISMS against the ISO 27001 standard. The audit identified three minor non-conformities and five opportunities for improvement, all of which were addressed before the external audit.
+
+#  Step 3: Management Review
+The ISMS steering committee conducted a formal management review to assess the performance of the ISMS, review audit results, and confirm its suitability and effectiveness. The review concluded that the ISMS was ready for the certification audit.
+
+#  6. Phase 5: Certification Audit (Month 9)
+SafeTrust Financial Services engaged a UKAS-accredited certification body to perform the two-stage certification audit.
+
+Stage 1 Audit: A documentation review. The auditor confirmed that the ISMS was designed in conformance with the standard. No major issues were raised.
+
+Stage 2 Audit: An on-site audit to verify that the ISMS was fully implemented and effective. The auditor interviewed staff, reviewed records, and observed processes. The audit concluded 
+
+with a recommendation for certification.
+
+Result: SafeTrust Financial Services officially received its ISO 27001:2022 certification
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c7bd3774-bdc3-4f31-be8a-67876e813b87" />
+
+---------------------------------------------------------------------------
+
+# 7. Results and Business Impact
+
+The implementation of the ISMS delivered significant security and business benefits.
+
+# Security Improvements:
+
+✅ Reduced Risk: The overall information security risk score was reduced by 75%.
+
+✅Fewer Incidents: A 90% reduction in security incidents and a 100% reduction in major incidents.
+
+✅Improved Resilience: Backup and recovery test times were reduced by 50%, improving the firm's ability to respond to a disruptive event.
+
+----------------------------------------------------------------------------------
+
+# Business Benefits:
+
+Client Trust: The certification became a key differentiator, contributing to a 15% increase in new client acquisition in the six months following certification.
+
+✅ Regulatory Compliance: The ISMS provided a structured framework that satisfied regulatory requirements, reducing audit preparation time by over 80%.
+
+✅ Security Culture: Employee security awareness scores improved by 60%, creating a more resilient human firewall.
+
+✅Operational Efficiency: Streamlined security processes and clear responsibilities reduced ambiguity and improved decision-making.
+
+# 8. Key Lessons Learned
+
+✅ Top Management Commitment is Non-Negotiable: Active sponsorship from the CEO was crucial for securing resources and driving the project forward.
+
+✅ Scope Definition is Foundational: A clearly defined and agreed-upon scope prevented scope creep and ensured the ISMS was focused on what mattered most.
+
+✅ Risk Assessment Drives Everything: A thorough risk assessment is the engine of the ISMS. Investing time and resources here ensures that the selected controls are relevant and effective.
+
+✅ Culture is as Important as Controls: Technical controls are only effective when supported by a strong security culture. The awareness and training program was a critical success factor.
+
+ISO 27001 is a Journey, Not a Destination: The project team emphasized that certification is the beginning, not the end. The focus is now on continual improvement and maintaining the effectiveness of the ISMS.
