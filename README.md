@@ -25,9 +25,13 @@ SafeTrust Financial Services, a provider of wealth management and investment adv
 # Key Challenges Identified:
 
 👉 Fragmented Security Controls: Security measures were implemented reactively without a cohesive strategy, leading to gaps and inconsistencies.
+
 👉 Regulatory Pressure: Increasing scrutiny from financial regulators (e.g., SEC, FINRA) required a provable security framework.
+
 👉 Client Trust: Clients were demanding formal verification of security practices, impacting client acquisition and retention.
+
 👉 Lack of a Security Culture: There was limited security awareness among employees, making the firm vulnerable to social engineering and human error.
+
 👉 Inefficient Audits: Responding to client and regulatory audits was a time-consuming, manual process that drained internal resources.
 
 -------------------------------------------------------------------------
@@ -70,7 +74,9 @@ This phase focused on identifying and evaluating information security risks to i
 The team adopted a formal risk assessment methodology. The process involved:
 
 👉 Asset Identification: Cataloging all critical information assets (e.g., client database, trading platform, network infrastructure).
+
 👉 Threat and Vulnerability Identification: Brainstorming potential threats (e.g., cyber-attacks, insider threats, system failures) and vulnerabilities (e.g., unpatched software, lack of MFA).
+
 👉 Risk Analysis: Evaluating the likelihood and impact of each identified risk scenario.
 
 ------------------------------------------------------------------------------
@@ -96,11 +102,17 @@ For each unacceptable risk, a treatment strategy was chosen: Mitigate, Accept, A
 
 Risk: R-001 - Unauthorized access via phishing.
 Treatment: Mitigate.
+
 Applicable Controls:
+
 ✅ A.5.7: Threat intelligence.
+
 ✅ A.6.3: Information security awareness, education, and training.
+
 ✅ A.8.2: Privileged access rights.
+
 ✅ A.8.3: Information access restriction.
+
 ✅ A.8.16: Monitoring activities.
 
 
